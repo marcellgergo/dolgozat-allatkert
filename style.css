@@ -1,0 +1,37 @@
+body{
+    background-color:green;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+p{
+    color:aqua;
+    font-size:20px;
+}
+.viziló{
+    border-radius: 21px;
+    height:350px;
+    width:450px;
+}
+h2{
+    color:white;
+    font-size:40px;
+}
+ul{
+    color:white;
+}
+ol{
+    color:white;
+}
+.hiúz{
+    border-radius:21px;
+    height:350px;
+    width:450px;
+    float:right;
+}
+.majom{
+    border-radius:21px;
+    height:350px;
+    width:450px;
+}
