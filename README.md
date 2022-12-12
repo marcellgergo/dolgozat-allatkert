@@ -1,1 +1,1 @@
-# dolgozat-jav-t-
+# dolgozat-javito
